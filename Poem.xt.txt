@@ -2,8 +2,7 @@ Rainbow Colors
 Red
 Orange
 Yellow
-<<<<<<< HEAD
-Blue
-=======
 Green
->>>>>>> 6dcf2859729b70d54e00862033e11afaba188022
+Blue
+
+
